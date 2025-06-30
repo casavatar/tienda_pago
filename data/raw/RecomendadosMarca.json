@@ -1,0 +1,844 @@
+[
+    {
+      "IDCLIENTE":75198,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5512345678,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":75548,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5523456789,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":76100,
+      "IDDISTRIBUIDOR":13,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5534567890,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":76337,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5545678901,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":76548,
+      "IDDISTRIBUIDOR":13,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5556789012,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":76771,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5567890123,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":76901,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5578901234,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":77153,
+      "IDDISTRIBUIDOR":105,
+      "NOMBRE DISTRIBUIDOR":"ECONOMYSA",
+      "TELEFONO":5589012345,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":77218,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5590123456,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":77221,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5501234567,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":77263,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5511223344,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":77403,
+      "IDDISTRIBUIDOR":99,
+      "NOMBRE DISTRIBUIDOR":"COMERCIOS",
+      "TELEFONO":5522334455,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":77521,
+      "IDDISTRIBUIDOR":105,
+      "NOMBRE DISTRIBUIDOR":"ECONOMYSA",
+      "TELEFONO":5533445566,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":77740,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5544556677,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":78151,
+      "IDDISTRIBUIDOR":13,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5555667788,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":78468,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5566778899,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":78705,
+      "IDDISTRIBUIDOR":21,
+      "NOMBRE DISTRIBUIDOR":"Lindley",
+      "TELEFONO":5577889900,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":78907,
+      "IDDISTRIBUIDOR":21,
+      "NOMBRE DISTRIBUIDOR":"Lindley",
+      "TELEFONO":5588990011,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":79069,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5599001122,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":79301,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5500112233,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":79490,
+      "IDCLIENTE":79490,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5510203040,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":80010,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5520304050,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":80203,
+      "IDDISTRIBUIDOR":99,
+      "NOMBRE DISTRIBUIDOR":"COMERCIOS",
+      "TELEFONO":5530405060,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":80424,
+      "IDDISTRIBUIDOR":13,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5540506070,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":81389,
+      "IDDISTRIBUIDOR":105,
+      "NOMBRE DISTRIBUIDOR":"ECONOMYSA",
+      "TELEFONO":5550607080,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":81403,
+      "IDDISTRIBUIDOR":15,
+      "NOMBRE DISTRIBUIDOR":"BOLAIRE",
+      "TELEFONO":5560708090,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":81412,
+      "IDDISTRIBUIDOR":103,
+      "NOMBRE DISTRIBUIDOR":"MARKOS",
+      "TELEFONO":5570809000,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":81504,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5580900010,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":81677,
+      "IDDISTRIBUIDOR":157,
+      "NOMBRE DISTRIBUIDOR":"COSTENOS",
+      "TELEFONO":5590001020,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":81824,
+      "IDDISTRIBUIDOR":156,
+      "NOMBRE DISTRIBUIDOR":"Top Partner",
+      "TELEFONO":5500102030,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":82848,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5510020030,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":83136,
+      "IDDISTRIBUIDOR":143,
+      "NOMBRE DISTRIBUIDOR":"COMERCIOSW",
+      "TELEFONO":5520030040,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":83210,
+      "IDDISTRIBUIDOR":13,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5530040050,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":83450,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5540050060,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":83526,
+      "IDDISTRIBUIDOR":153,
+      "NOMBRE DISTRIBUIDOR":"PONTAS",
+      "TELEFONO":5550060070,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":84107,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5560070080,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":84724,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5570080090,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":84907,
+      "IDDISTRIBUIDOR":146,
+      "NOMBRE DISTRIBUIDOR":"PONTAS",
+      "TELEFONO":5580090000,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":85161,
+      "IDDISTRIBUIDOR":153,
+      "NOMBRE DISTRIBUIDOR":"PONTAS",
+      "TELEFONO":5590000000,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":85425,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5511122233,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":85856,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5522233344,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":86069,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5533344455,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":86228,
+      "IDDISTRIBUIDOR":105,
+      "NOMBRE DISTRIBUIDOR":"ECONOMYSA",
+      "TELEFONO":5544455566,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":86603,
+      "IDDISTRIBUIDOR":13,
+      "NOMBRE DISTRIBUIDOR":"NONES TOPES",
+      "TELEFONO":5555566677,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":86640,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5566677788,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":86689,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5577788899,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":86903,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5588899900,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":86991,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5599900011,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":87093,
+      "IDDISTRIBUIDOR":21,
+      "NOMBRE DISTRIBUIDOR":"Lindley",
+      "TELEFONO":5500011122,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":87203,
+      "IDDISTRIBUIDOR":103,
+      "NOMBRE DISTRIBUIDOR":"MARKOS",
+      "TELEFONO":5511122233,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":87412,
+      "IDDISTRIBUIDOR":99,
+      "NOMBRE DISTRIBUIDOR":"COMERCIOS",
+      "TELEFONO":5522233344,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":87525,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5533344455,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":87698,
+      "IDDISTRIBUIDOR":105,
+      "NOMBRE DISTRIBUIDOR":"ECONOMYSA",
+      "TELEFONO":5544455566,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":88121,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5555566677,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":88476,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5566677788,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":88881,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5577788899,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":89018,
+      "IDCLIENTE":89018,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5588899900,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":89576,
+      "IDDISTRIBUIDOR":107,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5599900011,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":89808,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5500011122,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":89938,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5511122233,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":90039,
+      "IDDISTRIBUIDOR":15,
+      "NOMBRE DISTRIBUIDOR":"BOLAIRE",
+      "TELEFONO":5522233344,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":90212,
+      "IDDISTRIBUIDOR":15,
+      "NOMBRE DISTRIBUIDOR":"BOLAIRE",
+      "TELEFONO":5533344455,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":90350,
+      "IDDISTRIBUIDOR":22,
+      "NOMBRE DISTRIBUIDOR":"BIM",
+      "TELEFONO":5544455566,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":90548,
+      "IDDISTRIBUIDOR":15,
+      "NOMBRE DISTRIBUIDOR":"BOLAIRE",
+      "TELEFONO":5555566677,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":90629,
+      "IDDISTRIBUIDOR":99,
+      "NOMBRE DISTRIBUIDOR":"COMERCIOS",
+      "TELEFONO":5566677788,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":90707,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5577788899,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":90799,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5588899900,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":91079,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5599900011,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":91275,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5500011122,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":91463,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5511122233,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":91542,
+      "IDDISTRIBUIDOR":15,
+      "NOMBRE DISTRIBUIDOR":"BOLAIRE",
+      "TELEFONO":5522233344,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":92198,
+      "IDDISTRIBUIDOR":15,
+      "NOMBRE DISTRIBUIDOR":"BOLAIRE",
+      "TELEFONO":5533344455,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":92230,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5544455566,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":92596,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5555566677,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":93074,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5566677788,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":93251,
+      "IDDISTRIBUIDOR":21,
+      "NOMBRE DISTRIBUIDOR":"Lindley",
+      "TELEFONO":5577788899,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":93567,
+      "IDDISTRIBUIDOR":21,
+      "NOMBRE DISTRIBUIDOR":"Lindley",
+      "TELEFONO":5588899900,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":93635,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5599900011,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":93648,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5500011122,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":93908,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5511122233,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":94028,
+      "IDDISTRIBUIDOR":105,
+      "NOMBRE DISTRIBUIDOR":"ECONOMYSA",
+      "TELEFONO":5522233344,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":94358,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5533344455,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":94808,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5544455566,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":95024,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5555566677,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":95228,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5566677788,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":95328,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5577788899,
+      "categoría":"Oro",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":95524,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5588899900,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":95823,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5599900011,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":96000,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5500011122,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":96106,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5511122233,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":96255,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5522233344,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":96328,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5533344455,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":96497,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5544455566,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":96603,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5555566677,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":97024,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5566677788,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":97064,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5577788899,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":97115,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5588899900,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":97368,
+      "IDDISTRIBUIDOR":17,
+      "NOMBRE DISTRIBUIDOR":"COMERCIOS",
+      "TELEFONO":5599900011,
+      "categoría":"Cobre",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":98030,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5500011122,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":98136,
+      "IDDISTRIBUIDOR":123,
+      "NOMBRE DISTRIBUIDOR":"NONAS COMER",
+      "TELEFONO":5511122233,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":98319,
+      "IDDISTRIBUIDOR":71,
+      "NOMBRE DISTRIBUIDOR":"GLOROFI",
+      "TELEFONO":5522233344,
+      "categoría":"Oro",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":98614,
+      "IDDISTRIBUIDOR":156,
+      "NOMBRE DISTRIBUIDOR":"Top Partner",
+      "TELEFONO":5533344455,
+      "categoría":"Cobre",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":98628,
+      "IDDISTRIBUIDOR":95,
+      "NOMBRE DISTRIBUIDOR":"SALEROS PALACE",
+      "TELEFONO":5544455566,
+      "categoría":"Platino",
+      "recomendados":0
+    },
+    {
+      "IDCLIENTE":98661,
+      "IDDISTRIBUIDOR":151,
+      "NOMBRE DISTRIBUIDOR":"PETSO",
+      "TELEFONO":5555566677,
+      "categoría":"Platino",
+      "recomendados":1
+    },
+    {
+      "IDCLIENTE":98758,
+      "IDDISTRIBUIDOR":22,
+      "NOMBRE DISTRIBUIDOR":"BIM",
+      "TELEFONO":5566677788,
+      "categoría":"Oro",
+      "recomendados":0
+    }
+  ]
