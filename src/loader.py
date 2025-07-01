@@ -1,6 +1,6 @@
 # src/loader.py
 #--------------------------------------------------------------------------------------------------------
-# description: This module provides functions to load client recommendation data from a JSON file
+# This module provides functions to load client recommendation data from a JSON file
 # and client/transaction data from an Excel file. It also includes a function to create mock
 # data for demonstration purposes.
 #
@@ -11,6 +11,7 @@
 import pandas as pd
 import numpy as np
 
+# Function to load recommendations data
 def load_recommendations_data(file_path):
     """Loads client recommendation data from a JSON file."""
     print(f"Loading recommendations from {file_path}...")
@@ -21,6 +22,7 @@ def load_recommendations_data(file_path):
         print(f"Error: Recommendations JSON file not found at {file_path}")
         return pd.DataFrame()
 
+# Function to load clients and transactions data
 def load_clients_and_transactions(file_path):
     """Loads clients and transactions data from an Excel file."""
     print(f"Loading clients and transactions from {file_path}...")
@@ -36,6 +38,7 @@ def load_clients_and_transactions(file_path):
         print(f"Error loading sheets from Excel: {e}")
         return pd.DataFrame(), pd.DataFrame()
 
+# Function to create mock Excel data
 def create_mock_excel_data(file_path, client_ids_from_json):
     """Creates a mock Excel file for demonstration purposes."""
     print("Creating mock Excel data as source file was not provided...")

@@ -1,6 +1,8 @@
 # src/main.py
 #--------------------------------------------------------------------------------
-# description: Main ETL pipeline for processing client recommendations and transactions.
+# Main ETL pipeline for processing client recommendations and transactions.
+# This script orchestrates the entire ETL process, including data extraction,
+# transformation, and loading into the appropriate data structures.
 #
 # author: ekastel
 # date: 2025-06-27

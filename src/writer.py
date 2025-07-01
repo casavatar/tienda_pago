@@ -1,6 +1,6 @@
 # src/writer.py
 #----------------------------------------------------------------
-# description: This module contains functions to save transformed 
+# This module contains functions to save transformed 
 # data to CSV files.
 #
 # author: ekastel

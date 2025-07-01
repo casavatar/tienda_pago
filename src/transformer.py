@@ -1,6 +1,6 @@
 # src/transformer.py
 #-------------------------------------------------------------------------------
-# description: This module contains functions to transform raw data into structured 
+# This module contains functions to transform raw data into structured 
 # dimensions and fact tables.
 #
 # author: ekastel
